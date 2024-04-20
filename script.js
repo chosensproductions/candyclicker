@@ -6,3 +6,5 @@ clickButton.addEventListener('click', () => {
     score++;
     scoreDisplay.textContent = `Score: ${score}`;
 });
+alert('Welcome to Candy Clicker! This game will get updates in the future. I hope you enjoy my first game :)');
+
